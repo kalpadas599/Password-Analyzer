@@ -178,6 +178,8 @@ Ensure the layout works well on all devices using Tailwind's responsive classes.
 Dark Mode<br/>
 Add Tailwind’s dark mode support to improve the UI.<br/>
 
+See the interface:
+![Screenshot 2024-11-27 080302](https://github.com/user-attachments/assets/cd7fefba-3c3e-4ec0-934c-71711ae2a788)
 
 
 
