@@ -1,3 +1,5 @@
+Please give the star the repository if you like it.
+
 # 1. Technology Stack
 ## Frontend:
 React.js: For dynamic and reusable UI components.<br/>
